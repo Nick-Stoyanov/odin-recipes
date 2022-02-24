@@ -1,0 +1,38 @@
+.title {
+    font-size: 150px;
+    font-family: serif;
+    background-color: orange;
+    color: teal;
+    width: 1000px;
+    height: auto;
+    -webkit-text-stroke: 0.1cm;
+    -webkit-text-stroke-color: black;    
+}
+
+.caprese {
+    width: 200px;
+    height: auto;
+    background-color: black ;
+    color: white;
+    font-size: 50px;
+    font-family: serif;
+
+}
+.pastadough {
+    width: 200px;
+    height: auto;
+    background-color: yellow;
+    color: white;
+    font-size: 50px;
+    font-family: serif;
+}
+.tomatosauce {
+    background-color: red;
+    width: 200px;
+    height: auto;
+    font-size: 50px;
+    font-family: serif; 
+}
+*a {
+    color: white;
+}
