@@ -1,0 +1,63 @@
+h1 {
+    font-family: cursive;
+    font-weight: 1000;
+    color: green;
+    font-size: 100px;
+    background-color: red;
+    -webkit-text-stroke: 0.03cm;
+    -webkit-text-stroke-color: purple;
+    border: 3px solid purple;
+    text-align: center;
+    }
+.image {
+ border: 2px solid black;
+ display: block;
+ margin-right: auto;
+ margin-left: auto;
+}
+.intro {
+    background-color: firebrick;
+    color: black;
+    font-size: 70px;
+    -webkit-text-stroke: 0.03cm;
+    -webkit-text-stroke-color: white;
+    font-style: italic;
+    border: 3px solid black;
+    text-align: center;
+
+}
+p {
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: 700;
+    color: darkgreen;
+    border: 3px dotted darkgoldenrod;
+    background-color: antiquewhite;
+    text-align: center;
+}
+h2 {
+    font-size: 45px;
+    font-family: Geneva, serif, 'Times New Roman';
+    font-weight: 1000;
+    border: 3px double teal;
+    color: darkred;
+    -webkit-text-stroke: 0.01cm;
+    -webkit-text-stroke-color: blue;
+    text-align: center;
+}
+ul, ol {
+    border: 3px dashed black;
+    background-color: aquamarine;
+    color: black;
+    font-size: 25px;
+    font-family: cursive;
+
+}
+button {
+    background-color: purple;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid black;
+}
